@@ -9,15 +9,15 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy csproj and restore dependencies
-COPY ["MyMvcApp.csproj", "./"]
-RUN dotnet restore "./MyMvcApp.csproj"
+COPY ["Shoppy.csproj", "./"]
+RUN dotnet restore "./Shoppy.csproj"
 
 # Copy all files and publish
 COPY . .
-RUN dotnet publish "MyMvcApp.csproj" -c Release -o /app/publish
+RUN dotnet publish "Shoppy.csproj" -c Release -o /app/publish
 
 # Final image
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "MyMvcApp.dll"]
+ENTRYPOINT ["dotnet", "Shoppy.dll"]
