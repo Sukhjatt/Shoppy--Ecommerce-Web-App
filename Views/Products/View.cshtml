@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Shoppy.Models.Products>
+
+@{
+    ViewData["Title"] = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Products</h1>
+<div class="container mt-4">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var product in Model)
+        {
+
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="@product.image" class="card-img-top img-fluid w-100 product-img" alt="@product.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <span class="text-primary fw-bold">$@product.Price</span>
+                            <a href="/" class="btn btn-sm btn-warning">Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+<style>
+    .product-img {
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+</style>
