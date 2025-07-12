@@ -17,81 +17,81 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shoppy
 build_property.RootNamespace = Shoppy
-build_property.ProjectDir = C:\Users\admin\Documents\Shoppy\
+build_property.ProjectDir = C:\Users\admin\Documents\GitHub\Shoppy--Ecommerce-Web-App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\admin\Documents\Shoppy
+build_property.MSBuildProjectDirectory = C:\Users\admin\Documents\GitHub\Shoppy--Ecommerce-Web-App
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/admin/Documents/Shoppy/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Home/Index.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Home/Privacy.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/Create.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/Delete.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/Details.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/Edit.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/Index.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/Listing.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/Listing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcTGlzdGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/Searching.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/Searching.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2VhcmNoaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Products/View.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Products/View.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Shared/Error.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/_ViewImports.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/_ViewStart.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Documents/Shoppy/Views/Shared/_Layout.cshtml]
+[C:/Users/admin/Documents/GitHub/Shoppy--Ecommerce-Web-App/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g4q8bf85je
