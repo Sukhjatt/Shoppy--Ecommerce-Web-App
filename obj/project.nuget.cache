@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MSb6QYMWrfo=",
+  "dgSpecHash": "P2kOfywD4FA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\Shoppy--Ecommerce-Web-App\\Shoppy.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Shoppy\\Shoppy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

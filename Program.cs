@@ -16,10 +16,15 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddSession();
 var app = builder.Build();
+
 var scope = app.Services.CreateScope();
 var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 var userManager = scope.ServiceProvider.GetRequiredService<UserManager<IdentityUser>>();
+
+
+
 
 // Create admin role
 if (!await roleManager.RoleExistsAsync("Admin"))
@@ -48,8 +53,9 @@ else
 
 app.UseHttpsRedirection();
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
+app.UseSession(); 
 
 app.MapStaticAssets();
 
