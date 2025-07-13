@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shoppy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61f328d4c4af38e0031559de46619bba6bea3432")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65ae36e53d0680ccc0b99e4fc4e565fc62df04c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shoppy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shoppy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
